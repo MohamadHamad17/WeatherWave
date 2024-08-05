@@ -1,4 +1,4 @@
-# WeatherApp
+# WeatherWave
 
 Welcome to WeatherWave, a simple and elegant application that allows you to search for the current weather and forecast for your city. Built using HTML, CSS, and JavaScript, WeatherWave is designed to provide you with accurate and up-to-date weather information.
 
@@ -26,7 +26,7 @@ Before you begin, ensure you have the following:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Mohamadhamad17/WeatherApp.git
+    git clone https://github.com/Mohamadhamad17/WeatherWave.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -43,7 +43,7 @@ Before you begin, ensure you have the following:
 ## Project Structure
 
 ```plaintext
-WeatherApp/
+WeatherWave/
 │
 ├── css/
 │   └── styles.css         # Stylesheet for the app
