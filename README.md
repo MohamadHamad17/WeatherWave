@@ -5,7 +5,7 @@ Welcome to WeatherWave, a simple and elegant application that allows you to sear
 ## Features
 
 - **Current Weather**: Get real-time weather information for your city, including temperature, humidity, wind speed, and more.
-- **Forecast**: View the weather forecast for the next few days to plan your activities accordingly.
+- **Forecast**: View the weather forecast for the next 24 hours 
 - **Search Functionality**: Easily search for any city worldwide to get the latest weather updates.
 - **Responsive Design**: A user-friendly interface that works seamlessly on both desktop and mobile devices.
 
