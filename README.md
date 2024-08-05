@@ -54,3 +54,8 @@ WeatherWave/
 ├── index.html             # Main HTML file
 │
 └── README.md              # This README file
+
+
+<img width="580" alt="weather app copy" src="https://github.com/user-attachments/assets/ad7a2129-be39-49d7-8319-3a7b560b2671">
+
+
