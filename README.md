@@ -30,7 +30,7 @@ Before you begin, ensure you have the following:
     ```
 2. Navigate to the project directory:
     ```bash
-    cd WeatherApp
+    cd WeatherWave
     ```
 3. Open `index.html` in your web browser.
 
